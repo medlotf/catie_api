@@ -1,0 +1,1 @@
+CREATE TABLE `survey_test`.`question` ( `id` INT NOT NULL AUTO_INCREMENT , `question` VARCHAR(255) NOT NULL , `textType` BOOLEAN NOT NULL , `scaleType` BOOLEAN NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
